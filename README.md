@@ -19,15 +19,11 @@ Cause of Accident
 Number of Casualties
 Accident Severity (Fatal, Serious, Slight)
 # Key Insights Visualized:
-Visualization	             Insights Provided
-Total Accidents KPI	       Shows the total number of accidents reported
-Fatal Accidents KPI	       Indicates the number of fatal accidents
-Accident Frequency Heatmap Highlights peak accident times by day
-Accidents by Vehicle Type	 Identifies high-risk vehicles involved in accidents
-Top Causes of Accidents	   Lists the most common accident causes
-Weather Impact on Accidents	Analyzes how weather conditions affect accidents
-Driver Experience vs Severity Shows how driver experience impacts severity
-Geospatial Analysis	       Visualizes accident hotspots by area
+Visualization: Total Accidents KPI, Fatal Accidents KPI, Accident Frequency Heatmap, Accidents by Vehicle Type,	 
+Top Causes of Accidents, Weather Impact on Accidents,	Driver Experience vs Severity, Geospatial Analysis.	
+Insights Provided: Visualizes accident hotspots by area, Shows the total number of accidents reported, Indicates the number of fatal accidents,
+Highlights peak accident times by day, Identifies high-risk vehicles involved in accidents, Lists the most common accident causes, 
+Analyzes how weather conditions affect accidents, Shows how driver experience impacts severity
 # Data Cleaning Process:
 Missing values handled by filling with "Unknown"
 Date & Time column transformed into hourly bins
